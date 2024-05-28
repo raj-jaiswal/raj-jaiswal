@@ -1,4 +1,4 @@
-- Hi, I’m @Raj-Jaiswal
+- Hi, I’m Divya Swaroop Jaiswal aka Raj Jaiswal
 - I’m interested in 3d Modelling, programming in python, javascript and react and making games.
 - I’m currently learning Blender and Web designing.
 - I’m looking to collaborate on projects related to web development and game design.
