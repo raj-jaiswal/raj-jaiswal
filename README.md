@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Raj-Jaiswal
-- 👀 I’m interested in 3d Modelling,programming in javascript and making games on unity.
-- 🌱 I’m currently learning Blender and Web designing.
-- 💞️ I’m looking to collaborate on anything I could collaborate on.
-- 📫 How to reach me- My email- rajj91783@gmail.com
+- Hi, I’m @Raj-Jaiswal
+- I’m interested in 3d Modelling, programming in python, javascript and react and making games.
+- I’m currently learning Blender and Web designing.
+- I’m looking to collaborate on projects related to web development and game design.
+- How to reach me: rajj91783@gmail.com
 
 <!---
 raj-jaiswal/raj-jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
