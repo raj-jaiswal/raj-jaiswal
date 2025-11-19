@@ -3,7 +3,7 @@
 
 **Learning something new everyday!**
 
-Hi, I’m Divya (Raj) — a software developer and 3D hobbyist building web projects and simple games. I enjoy learning new tools and techniques every day, especially in web development (JavaScript / React) and 3D modelling with Blender. I am open to collaboration on web, game design, and creative coding projects.
+Hi, I’m Divya Swaroop (Raj) — a software developer and design hobbyist building web projects and simple games. I enjoy learning new tools and techniques every day, especially in web development (JavaScript / React) and 3D modelling with Blender. I am open to collaboration on web, game design, and creative coding projects.
 
 ## Quick Info
 
