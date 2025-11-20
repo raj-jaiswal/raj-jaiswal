@@ -36,6 +36,9 @@ Hi, I’m Divya Swaroop (Raj) — a software developer and design hobbyist build
 
 <!-- Top languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-jaiswal&layout=compact&hide_title=true)](https://github.com/raj-jaiswal)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj-jaiswal&theme=tokyonight)](https://github.com/raj-jaiswal)
+
 ---
 
 
